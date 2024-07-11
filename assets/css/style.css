@@ -75,7 +75,7 @@
 }
 
 .bg-img {
-  background-image: url(/assets/images/Rectangle\ 18.png);
+  background-image: url(/assets/images/meeting.png);
   min-height: 100vh;
   width: 100%;
   position: relative;
@@ -87,7 +87,7 @@
 .bg-img2 {
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(/assets/images/Rectangle\ 27.png);
+  background-image: url(/assets/images/backgroung-girl.png);
   background-position: center;
   min-height: 45vh;
   width: 100%;
