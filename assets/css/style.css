@@ -257,6 +257,8 @@
   margin-top: 40px;
   padding-right: 15px;
   margin-bottom: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .mt-24 {
@@ -831,6 +833,7 @@
     width: 100%;
     background-color: white;
     top: 50%;
+    left: 0%;
   }
 
   .check-btn {
