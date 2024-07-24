@@ -1,0 +1,88 @@
+:root {
+  /*================text-color===============*/
+  --text-white: #ffffff;
+  --text-blue: #2c49fe;
+  --text-skyblue: #01c8ff;
+  --text-d-blue: #2d3cae;
+  --text-black: #000000;
+  --text-grey: #4d4d4d;
+
+  /*==========font-size====================*/
+  --fs-12: 12px;
+  --fs-14: 14px;
+  --fs-16: 16px;
+  --fs-20: 20px;
+  --fs-24: 24px;
+  --fs-25: 25px;
+  --fs-35: 35px;
+  --fs-36: 36px;
+  --fs-48: 48px;
+  --fs-64: 64px;
+}
+
+/*=============text-color=============*/
+.text-white {
+  color: var(--text-white);
+}
+
+.text-blue {
+  color: var(--text-blue);
+}
+
+.text-skyblue {
+  color: var(--text-skyblue);
+}
+
+.text-d-blue {
+  color: var(--text-d-blue);
+}
+
+.text-black {
+  color: var(--text-black);
+}
+
+.text-grey {
+  color: var(--text-grey);
+}
+
+/*====================text-size===============*/
+
+.fs-12 {
+  font-size: var(--fs-12);
+}
+
+.fs-14 {
+  font-size: var(--fs-14);
+}
+
+.fs-16 {
+  font-size: var(--fs-16);
+}
+
+.fs-20 {
+  font-size: var(--fs-20);
+}
+
+.fs-24 {
+  font-size: var(--fs-24);
+}
+
+.fs-25 {
+  font-size: var(--fs-25);
+}
+
+.fs-35 {
+  font-size: var(--fs-35);
+}
+
+.fs-36 {
+  font-size: var(--fs-36);
+}
+
+.fs-48 {
+  font-size: var(--fs-48);
+}
+
+.fs-64 {
+  font-size: var(--fs-64);
+}
